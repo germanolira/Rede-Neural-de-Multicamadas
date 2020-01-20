@@ -27,6 +27,13 @@ O que é diferente desta vez é que existem várias camadas. Quando a rede neura
 
 ![Image description](https://miro.medium.com/max/840/1*-1trgA6DUEaafJZv3k0mGw.jpeg)
 
+# Dependências
+
+"""
+pip install numpy
+python3 main.py
+"""
+
 Créditos: Milo Spencer-Harper
 
 # Alguns Links
