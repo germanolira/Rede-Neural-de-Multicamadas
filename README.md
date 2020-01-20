@@ -1,4 +1,4 @@
-# Rede Neural de Multicamadas
+# Rede Neural de Multicamadas 🤖👾
  Uma melhora na rede neural simples, adicionando mais camadas e dificultando o problema
 
 Ha mais ou menos um ano atrás fiz um fork de uma rede neural simples e melhorei o código, atualizei para o Python 3, traduzi e postei, acabei aprendendo como criar uma rede neural simples para resolver um problema de prever números em uma tabela, agora com um problema mais difícil na qual aquela rede neural não conseguiria resolver.
