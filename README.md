@@ -29,10 +29,10 @@ O que é diferente desta vez é que existem várias camadas. Quando a rede neura
 
 # Dependências
 
-"""
+'''
 pip install numpy
 python3 main.py
-"""
+'''
 
 Créditos: Milo Spencer-Harper
 
