@@ -29,12 +29,12 @@ O que é diferente desta vez é que existem várias camadas. Quando a rede neura
 
 # Dependências
 
-'''
-pip install numpy
-python3 main.py
-'''
+- pip install numpy
+- python3 main.py
 
 Créditos: Milo Spencer-Harper
+
+@miloharper :+1: Thanks, Mr. Spencer, awesome project! :shipit:
 
 # Alguns Links
 
